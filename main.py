@@ -59,5 +59,5 @@ def create_books(authors, publisher):
 
 if __name__ == "__main__":
     create_publisher()
-    # create_author()
-    # create_books
+    create_author()
+    create_books
