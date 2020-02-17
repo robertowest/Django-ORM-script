@@ -1,6 +1,9 @@
 Django ORM Python Script
 ========================
 
+El ORM (Object-relational mapping) de Django es una herramienta poderosa y muy versátil. En este ejemplo mostraré como usar este componente desde un script python que haga uso de una base de datos.
+
+
 Requerimientos
 --------------
 El sistema debe tener una instalación de django existente para que podamos 
